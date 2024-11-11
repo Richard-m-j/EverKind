@@ -507,7 +507,7 @@ export function ConsolePage() {
     <div data-component="ConsolePage">
       <div className="content-top">
         <div className="content-title">
-          <img src="/everkind-small-logo.svg" />
+          <img src="/everkind-high-resolution-logo.png" />
           <span>EverKind</span>
         </div>
         <div className="content-api-key">
